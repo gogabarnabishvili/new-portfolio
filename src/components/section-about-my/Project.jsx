@@ -1,6 +1,6 @@
 import discord from "../../image/discord1.jpg";
 import weather from "../../image/Screenshot 2023-07-26 183627.jpg";
-import monkey from "../../image/monkey-g412399084_1280.webp";
+import monkey from "../../image/monky1.jpg";
 import loading from "../../image/ingilizce-loading-ne-demek-ingilizce-bilgisayar-terimleri.jpg";
 import sectionAboutStyled from "./sectionAboutStyled.css";
 
