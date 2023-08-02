@@ -1,0 +1,26 @@
+/* :root {
+    --black-to-white: black;
+    --white-to-black: white;
+    --home_page-background: rgb(0, 0, 0, 0.7);
+    --navbar_background: rgb(0, 0, 0, 0.9);
+    --scrollbar-thumb-bg-color: rgba(229, 229, 72, 1);
+    --transparent_text_border: rgba(102, 102, 102, 1);
+    --black-to-transparent: black;
+    --mobile-home_page-background: rgb(0, 0, 0, 1);
+} */
+
+/* html {
+    scroll-behavior: smooth;
+} */
+
+body {
+    overflow-y: hidden;
+}
+/* #dark div {
+    background-color: black;
+    color: #fff;
+}
+#lnght div {
+    background-color: #fff;
+    color: black;
+} */
