@@ -27,7 +27,9 @@ const HeaderLogoDark = () => {
                 </div>
                 <div className="header-logo-ringth">
                     <p>
-                        <a href="#">Github</a>
+                        <a href="https://github.com/gogabarnabishvili/new-portfolio">
+                            Github
+                        </a>
                     </p>
 
                     <div
