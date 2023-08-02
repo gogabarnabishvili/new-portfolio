@@ -43,7 +43,7 @@ const Project = () => {
                     <img
                         className="discord-cover-img"
                         src={weather}
-                        alt="Discord Clone"
+                        alt="weather"
                     />
 
                     <div className="image-in-title">
@@ -71,7 +71,7 @@ const Project = () => {
                     <img
                         className="discord-cover-img"
                         src={monkey}
-                        alt="Discord Clone"
+                        alt="nft-stores"
                     />
 
                     <div className="image-in-title">
@@ -95,7 +95,7 @@ const Project = () => {
                 <img
                     className="discord-cover-img"
                     src={loading}
-                    alt="Discord Clone"
+                    alt="work wise"
                 />
 
                 <div className="image-in-title">
