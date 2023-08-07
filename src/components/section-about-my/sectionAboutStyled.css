@@ -5,6 +5,7 @@
     color: #fff;
     /* user-select: none; */
 }
+
 .section-abuot-text > span {
     color: darkgoldenrod;
 }
@@ -123,4 +124,22 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+@media screen and (max-width: 500px) {
+    .section-about-wraper {
+        font-size: 16px;
+    }
+    .section-project-box-discord {
+        width: 250px;
+    }
+    .contact-info ul {
+        width: 90%;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .contact-info ul li {
+        width: 200px;
+        flex-direction: column;
+    }
 }
