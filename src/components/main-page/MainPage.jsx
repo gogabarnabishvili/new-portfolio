@@ -29,15 +29,27 @@ const MainPage = () => {
             <HeaderSection />
             {/* <div ref={workRef}></div> */}
             <div className="test" id="AboutMe">
+                <div className="title">
+                    <h2>Abuot Me</h2>
+                </div>
                 <AbuotMe />
             </div>
             <div className="test" id="project">
+                <div className="title">
+                    <h2>Projects</h2>
+                </div>
                 <Project />
             </div>
             <div className="test" id="skilllist">
+                <div className="title">
+                    <h2>Skill</h2>
+                </div>
                 <SkillList />
             </div>
             <div className="test" id="contact">
+                <div className="title">
+                    <h2>Contact</h2>
+                </div>
                 <Contact />
             </div>
             <Footer />
